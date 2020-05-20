@@ -45,14 +45,14 @@ menuOptions:
 
 helpOptions:
   "วันนี้ มีอะไรให้ช่วยไหม, _${from.username}_?\n\n\
-  Let's try an example, type the following in ANY chat then click on the desired result:\n\n\
+  มาลองดูตัวอย่างกัน, พิมพ์ข้อความต่อไปนี้ในการสนทนาไหนก็ได้ จากนั้นคลิกที่ผลลัพธ์ที่ต้องการ:\n\n\
   ``` @ANILISTbot Pokemon```\n\n\
-  This bot has special features for you:\n\
-  - *Notifications when new episodes are released*\n\
-  - *News about your mangas and animes*\n\
-  - *Tracking the time you spent watching anime*\n\
-  - *Countdown for episodes*\n\
-  - *Your own watchlist and readlist*\n\n\
+  บอทนี้มีคุณสมบัติพิเศษสำหรับคุณ:\n\
+  - *ส่งการแจ้งเตือนเมื่อตอนใหม่ถูกเผยแพร่*\n\
+  - *ข่าวเกี่ยวกับ มังงะ และ อนิเมะ ของคุณ*\n\
+  - *ติดตามเวลาที่คุณดูอนิเมะ*\n\
+  - *นับถอยหลังสำหรับตอนต่างๆ*\n\
+  - *รายการที่ดูและรายการที่อ่านของคุณ*\n\n\
   To receive notifications, just add the anime to your watchlist after searching for it, there's a button for that in the search results.\n\n\
   Any other questions?\n\n\
   Press _Menu_ and see the Guide for more information and settings about this bot."
